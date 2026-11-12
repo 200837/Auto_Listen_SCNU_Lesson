@@ -1,0 +1,2 @@
+# Auto_Listen_SCNU_Lesson
+这是一个基于python自动刷视频（只适用于华南师范大学砺儒云课堂）的项目
