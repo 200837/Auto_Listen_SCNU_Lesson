@@ -28,6 +28,7 @@
 
 - Windows 电脑
 - 系统自带的 Microsoft Edge 浏览器（程序直接用 Edge 内核，不用另外下浏览器）
+- 安装python(自行百度怎么安装使用)
 - Python 解释器（程序依赖 Playwright）
 
 ### 2. 安装依赖（只需做一次）
